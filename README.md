@@ -46,7 +46,7 @@ http://localhost:8000/block/{BLOCK_HEIGHT}
 
 example
 ```
-curl http://localhost:8080/block/0
+curl http://localhost:8000/block/0
 ```
 example output:
 ```
