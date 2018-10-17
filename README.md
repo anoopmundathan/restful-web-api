@@ -23,7 +23,7 @@ $ node server.js
 Use postman or CURL on the terminal to send the requests to the base url http://localhost:8000 with one of the below supported endpoints:
 
 - POST
-/block
+http://localhost:8000/block
 
 example:
 
@@ -42,7 +42,7 @@ example output:
 ```
 
 - GET
-http://localhost/block/{BLOCK_HEIGHT}
+http://localhost:8000/block/{BLOCK_HEIGHT}
 
 example
 ```
