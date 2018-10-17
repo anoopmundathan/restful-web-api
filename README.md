@@ -20,7 +20,7 @@ $ node server.js
 ```
 ### How to test the end point?
 
-Use postman or CURL on the terminal to send the requests to the base url http://localhost:8000 with one of the below supported endpoints:
+Use [postman](https://www.getpostman.com/) or CURL on the terminal to send the requests to the base url http://localhost:8000 with one of the below supported endpoints:
 
 - POST
 http://localhost:8000/block
